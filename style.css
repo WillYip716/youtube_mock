@@ -1,0 +1,58 @@
+#topbar{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+
+#left{
+    width: 75%;
+    float: left;
+    
+}
+
+#right{
+    width: 24%;
+    float: right;
+    
+}
+
+iframe{
+    align-content: center;
+}
+
+.thumbimg{
+    width: 168px;
+    height: 94px;
+    float: left;
+    margin-right: 10px;
+}
+
+.suggested{
+    font-size: 14px;
+    font-family:Roboto, Arial, sans-serif ;
+}
+
+.suggestedtitle{
+    font-size: 16px !important;
+    color: gray;
+}
+
+.thumbs{
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.commentIcon{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.comments{
+    margin-top: 30px;
+}
+
+.commentbody{
+    margin-left: 50px;
+    font-size: 14px;
+}
